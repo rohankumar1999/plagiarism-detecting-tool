@@ -1,0 +1,2 @@
+This is a Python implementation of locality sensitive hashing with minhash. It is very useful for detecting near duplicate documents.
+NumPy is needed to run the code.
